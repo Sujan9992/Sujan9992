@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter
 
-[![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan9992)](https://github.com/Sujan9992/github-readme-stats)
+[![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan9992?count_private=true)](https://github.com/Sujan9992/github-readme-stats)
 
 
 <!---
