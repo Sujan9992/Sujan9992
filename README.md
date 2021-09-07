@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Flutter
 
 [![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan9992)](https://github.com/Sujan9992/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan9992&show_icons=true&theme=radical)
+
 
 
 <!---
