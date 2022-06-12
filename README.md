@@ -9,7 +9,7 @@
 
 - 📫 Mail me **suznthapa9992@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://www.canva.com/design/DAFCYIED1Zo/tbotAS8-1TyJ29nJSUKmpQ/edit?utm_content=DAFCYIED1Zo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Click Here](https://www.canva.com/design/DAFCYIED1Zo/X4bcdQlYsCyyEqqBkTqPoQ/view?utm_content=DAFCYIED1Zo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
