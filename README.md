@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sujan9992&theme=onestar&column=9&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" alt="sujan9992" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tsujan11" target="blank"><img src="https://img.shields.io/twitter/follow/tsujan11?logo=twitter&style=for-the-badge" alt="tsujan11" /></a><a><p align="right"> <img src="https://komarev.com/ghpvc/?username=sujan9992&label=Profile%20views&color=0e75b6&style=flat" alt="sujan9992" /> </p></a> </p>
-
+<p align="left"> <a href="https://twitter.com/tsujan11" target="blank"><img src="https://img.shields.io/twitter/follow/tsujan11?logo=twitter&style=for-the-badge" alt="tsujan11" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sujan9992&label=Profile%20views&color=0e75b6&style=flat" alt="sujan9992" /> </p>
 - 📫 Mail me **suznthapa9992@gmail.com**
 
 - 📄 Know about my experiences [Click Here](https://www.canva.com/design/DAFCYIED1Zo/X4bcdQlYsCyyEqqBkTqPoQ/view?utm_content=DAFCYIED1Zo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
